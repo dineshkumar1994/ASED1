@@ -1,0 +1,2 @@
+This is second user
+He is developing the architecture of the project.
